@@ -24,8 +24,8 @@
     preferences below and comment the other
     =========================================================================
   */
-    --csd-width: 100px;
-    --csd-top: 8px;
+    --csd-width: 142.5px;
+    --csd-top: 0px;
 
     /*  
       CSD - Left Side === 
@@ -42,8 +42,8 @@
       Defaults: --csd-right: 0px; --csd-margin-right: 95px;
     */ 
 
-      --csd-right: 36px;
-      --csd-margin-right: 130px;
+      --csd-right: 0px;
+      --csd-margin-right: 150px;
 
   /* === END: Window Control / Client Side Display Settings === */
 

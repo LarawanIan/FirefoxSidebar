@@ -13,6 +13,10 @@ appearance: none !important;
   padding-top: 2px !important;
 }
 
+#sidebar-box {
+  margin-top: -42px !important;
+} 
+
 /* #main-window {
 	background-color: rgba(0,0,0,0.45) !important;
 	background: linear-gradient(8deg, rgba(0,0,0,0.4) 96%, #000) !important; /* gradient to hide the required windows control buttons in bg 
