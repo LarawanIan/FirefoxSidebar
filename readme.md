@@ -33,7 +33,7 @@ Follow the instructions for adding this repository to your Firefox Profile.
 1. Navigate to `about:profiles` in your address bar
 2. Click on the 'open root folder` button for your current profile
 3. Open this folder in your terminal
-4. Clone this repo with the following command: `git clone https://github.com/drannex42/FirefoxSidebar.git "chrome"`
+4. Clone this repo with the following command: `git clone https://github.com/LarawanIan/FirefoxSidebarWindows.git "chrome"`
 5. In Firefox navigate to `about:config` in your address bar
 6. change the characteristic `toolkit.legacyUserProfileCustomizations.stylesheets` to `true`
 7. Restart Firefox
